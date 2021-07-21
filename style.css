@@ -1,0 +1,171 @@
+
+
+
+
+
+
+body{
+        font-family: 'Ruslan Display', cursive;
+}
+
+
+
+/* frist section css start */
+.first-sec{
+        display: flex;
+        
+        margin-top: 1%;
+        margin-bottom: 150px;
+}
+
+.peter-parker{
+        font-size: 90px;
+}
+
+.peter-p{
+        color:navy;
+}
+
+h1{
+        font-size: 100px;
+      
+}
+
+
+span{
+        color: peru;
+       
+        
+}
+
+
+.first-sec-first-width{
+        width: 200%;
+        font-size: 50px;
+        margin-left: 200px;
+        padding-top: 3%;
+}
+
+
+.first-sec-second-width{
+        width: 80%;
+      padding-right: 10%;
+      padding-top:3%;
+        margin-left: 300px;
+       
+}
+
+.anchor{
+        font-size: 30px;
+       text-decoration: none;
+     background-image: linear-gradient(orange, tomato);
+       padding: 3%;
+       border-radius:20px;
+}
+
+/* frist section css close */
+/* --------------------------------------------- */
+
+
+
+
+
+
+/* second section css start */
+
+.second-sec{
+        display: flex;
+        margin-top: 5%;
+        margin-bottom: 50px;
+
+       
+}
+
+.about-me{
+        font-size: 80px;
+}
+.second-sec-first-width{
+        width: 40%;
+        margin-left: 200px;
+}
+
+.second-sec-second-width{
+        width: 40%;
+        padding-left: 3%;
+        padding-top: 3%;
+}
+.dream{
+        color: rgb(153, 153, 9);
+}
+.anchor-about-me{
+       font-size: 30px;
+       text-decoration: none;
+       background-image: linear-gradient(orange, tomato);
+       padding: 3%;
+       border-radius:20px;
+       
+}
+
+/* second section css close */
+
+
+
+
+/* ---------------------------------------------------- */
+/* third section css start */
+
+.sec-three{
+        display: flex;
+}
+
+
+.third-first{
+        width: 50%;
+        margin: 50px;
+        padding: 5%;
+
+
+}
+.about-peter{
+        font-size: 50px;
+        color: chocolate;
+}
+
+
+.third-second{
+
+        width: 50%;
+        margin: 50px;
+        padding: 5%;
+}
+.about-dream{
+        font-size: 50px;
+        color: chocolate;
+        
+}
+.dream{
+        color:royalblue;
+        
+}
+.spider-man{
+        color:royalblue;
+}
+
+.box-shadow{
+        
+        box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+/* third section css close */
+
+
+footer{
+        text-align: center;
+        background-color: burlywood;
+        height: 100px;
+        padding-top: 5%;
+        font-size: 30px;
+        margin-top: 30px;
+}
+
+
+
