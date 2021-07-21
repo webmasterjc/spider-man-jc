@@ -37,6 +37,9 @@ span{
        
         
 }
+.jewel{
+        color: rgb(153, 153, 9);
+}
 
 
 .first-sec-first-width{
@@ -76,7 +79,7 @@ span{
 .second-sec{
         display: flex;
         margin-top: 5%;
-        margin-bottom: 50px;
+        margin-bottom: 20px;
 
        
 }
@@ -116,6 +119,7 @@ span{
 
 .sec-three{
         display: flex;
+        margin-top: 60px;
 }
 
 
@@ -168,4 +172,5 @@ footer{
 }
 
 
+    
 
